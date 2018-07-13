@@ -1,0 +1,4 @@
+1)Keywordrfrompdf.py file generates csv file.
+2)It adds One extra Column of Sno. Which is Deleted by Libra Office.
+3)Their headings are then changed and then they are sorted by the value of occurances/priority in decreasing order.
+4)It is the saved and uploaded in Google Doc to create a xlsx(spreadsheet file).
